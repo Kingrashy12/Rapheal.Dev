@@ -1,7 +1,7 @@
 ﻿Hi 👋 My name is Rapheal
 ========================
 
-Frontend Developer .
+FullStack Developer(MERN Stack) .
 ----------------------------------
 
 * 🌍  I'm based in Nigeria
