@@ -1,10 +1,6 @@
 FullStack Developer.
 ----------------------------------
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [raphealchizitere@gmail.com](mailto:raphealchizitere@gmail.com)
-* 🤝  I'm open to collaborating on React and Next.js projects
-
 | GitHub Stats | Top Languages |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingrashy12&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrashy12&layout=compact&langs_count=6&theme=radical) |
