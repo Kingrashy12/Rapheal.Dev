@@ -5,7 +5,7 @@ FullStack Developer(MERN Stack) .
 ----------------------------------
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [www.rashyking05@gmail.com](mailto:www.rashyking05@gmail.com)
+* ✉️  You can contact me at [raphealchizitere@gmail.com](mailto:raphealchizitere@gmail.com)
 * 🤝  I'm open to collaborating on React and Next.js projects
 
 ### Skills
@@ -28,4 +28,4 @@ FullStack Developer(MERN Stack) .
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/Kingrashy12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Rashyking12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rapheal-chizitere-46581a256/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/Kingrashy12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iam_kingrashy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rapheal-chizitere-46581a256/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a></p>
